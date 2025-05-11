@@ -124,14 +124,14 @@
   </a>
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
+<!-- <h3 align="left">GitHub Stats:</h3>
 <div align="left">
   <img height="150em" 
        src="https://github-readme-stats.vercel.app/api?username=ankitchauhan&show_icons=true&theme=radical&locale=en" 
-       alt="Ankit Chauhan's GitHub Stats" />
+       alt="Ankit Chauhan's GitHub Stats" /> -->
 <!--   <img height="150em" 
        src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitchauhan&show_icons=true&theme=radical&locale=en&layout=compact" 
-       alt="Ankit Chauhan's Top Languages" /> -->
-</div>
+       alt="Ankit Chauhan's Top Languages" /> 
+</div>-->
 
 
